@@ -1,0 +1,71 @@
+Jul 08 15:05 : state_file: Unrecognized line in state file: ## Copyright (C) 2020-2021 Aditya Shakya <adi1090x@gmail.com>
+Jul 08 15:05 : state_file: Unrecognized line in state file: ## Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
+Jul 08 15:05 : state_file: Unrecognized line in state file:
+Jul 08 10:04 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jul 08 12:02 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Jul 08 13:30 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Jul 08 20:59 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Jul 08 21:02 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Jul 08 21:06 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Jul 08 21:09 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Jul 08 21:12 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Jul 08 21:15 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Jul 08 21:19 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Jul 08 21:22 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Jul 08 21:25 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Jul 08 21:52 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Jul 08 21:56 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Jul 08 21:59 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Jul 08 22:03 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Jul 08 22:35 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jul 10 00:23 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Jul 10 16:44 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Jul 10 21:19 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Jul 11 19:06 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jul 12 15:23 : output: Failed to play on "pulse audio" (pulse): suspended
+Jul 12 15:23 : output: Failed to play on "pulse audio" (pulse): suspended
+Jul 12 15:25 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jul 12 23:54 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Jul 13 12:27 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Jul 13 16:31 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Jul 14 10:20 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Jul 15 00:32 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Jul 15 08:03 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Jul 15 23:02 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Jul 16 10:57 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Jul 16 14:06 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Jul 16 14:07 : exception: Failed to decode /home/rahul/Music/NEFFEX - Grateful [Copyright Free].mp3; Failed to open '/home/rahul/Music/NEFFEX - Grateful [Copyright Free].mp3': No such file or directory
+Jul 16 14:07 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
