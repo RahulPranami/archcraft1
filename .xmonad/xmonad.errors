@@ -1,7 +1,0 @@
-$ ghc --make xmonad.hs -i -ilib -fforce-recomp -main-is main -dynamic -v0 -outputdir /home/rahul/.xmonad/build-x86_64-linux -o /home/rahul/.xmonad/xmonad-x86_64-linux
-
-xmonad.hs:288:30: error:
-    Variable not in scope: myEventHook :: Event -> X All
-    |
-288 |         handleEventHook    = myEventHook,
-    |                              ^^^^^^^^^^^
